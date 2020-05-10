@@ -3,7 +3,7 @@ Esse script faz a instalação do Metasploit Framework de forma simples e fácil
 
 Para instalar use os seguintes comandos:
 
----------USO ABSOLUTO PARA TERMUX----------
+------USO ABSOLUTO PARA TERMUX------
 1°Instale o git e o python3...
 $pkg install git && pkg install python3
 
