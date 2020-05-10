@@ -66,11 +66,11 @@ try:
             print('starting...')
             sleep(1)
         except:
-            print("{}ERRO{}".format(color["red"], color["end"]))
+            print("{}erro{}!".format(color["red"], color["end"]))
         else:
             os.system("msfconsole")
     else:
         exit()
 except:
-    print("{}ERRO{}!".format(color["red"], color["end"])) 
+    print("{}Saindo...{}".format(color["red"], color["end"])) 
        
