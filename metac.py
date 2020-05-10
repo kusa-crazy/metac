@@ -32,7 +32,7 @@ try:
     def menu():
         print("""
         [0] Exit.
-        [1] Install the Metasploit end execult.
+        [1] Install the Metasploit and execult.
          """)
          
                  
