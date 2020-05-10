@@ -2,6 +2,7 @@
 import os
 from time import sleep
 
+os.system("clear")
 try:
     color = {"red":'\033[1;31m', "cyan":'\033[1;36m', "end":'\033[m'}
         
